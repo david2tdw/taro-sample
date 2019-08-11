@@ -1,0 +1,19 @@
+{
+	"miniprogramRoot": "dist/",
+	"projectname": "mini-trend",
+	"description": "",
+	"appid": "wx1bb024a8d7e0c1fa",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"autoAudits": false
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.8.0",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {}
+}
